@@ -67,3 +67,7 @@ If this approach gains wider adoption—potentially under a dedicated file exten
 ## Contributing & Open Source
 
 Shellcraft Docs is open source and welcomes ideas, bug reports, and pull requests at [github.com/kaheichanturtle/shellcraftdocs](https://github.com/kaheichanturtle/shellcraftdocs).
+
+Only Shellcraft Docs logo and Shellcraft name is copyrighted (c) Shellcraft Studios, Ka Hei Chan, 2026. 
+
+Shellcraft Documents and editor are open source and freely editable. View License for more. 
